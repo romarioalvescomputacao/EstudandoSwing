@@ -6,6 +6,10 @@ import javax.swing.text.PlainDocument;
 
 public class TamanhoFixo extends PlainDocument {
 	
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = -198859915960549131L;
 	private int limite;
 	
 	TamanhoFixo(int limite){
